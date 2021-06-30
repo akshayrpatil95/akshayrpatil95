@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Data Analytics with Python.
 - 👯 I’m looking to collaborate on Python Programming Projects, Deep Learning models, Machine Learning algorithms
-- 🤔 I’m looking for for Internship, Working student & Thesis opportunities | Machine Learning | Deep Learning | Image Classification | Computer Vision |
+- 🤔 I’m looking for for Internship, Working student & Thesis opportunities | Machine Learning | Deep Learning | Image Classification | Object Detection  |
 - 💬 Ask me about anything
 - 📫 How to reach me: [akshayrpatil95@gmail.com](akshayrpatil95@gmail.com)
 - 😄 Pronouns: he/him
