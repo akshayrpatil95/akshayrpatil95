@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for for Internship, Working student & Thesis opportunities | Machine Learning | Deep Learning | Image Classification | Computer Vision |
 - 💬 Ask me about ... anything
 - 📫 How to reach me: [akshayrpatil95@gmail.com](akshayrpatil95@gmail.com)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
 
