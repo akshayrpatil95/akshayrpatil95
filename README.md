@@ -3,9 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Data Analytics with Python.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Python Programming Projects, Deep Learning models, Machine Learning algorithms
 - 🤔 I’m looking for for Internship, Working student & Thesis opportunities | Machine Learning | Deep Learning | Image Classification | Computer Vision |
 - 💬 Ask me about anything
 - 📫 How to reach me: [akshayrpatil95@gmail.com](akshayrpatil95@gmail.com)
