@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 <br />
 
-[linkedin]: https://www.xing.com/profile/Akshay_Patil26/cv
+[XING]: https://www.xing.com/profile/Akshay_Patil26/cv
