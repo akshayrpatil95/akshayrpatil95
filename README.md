@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 
 ## Get in touch
 
-[<img align="left" alt="akshayrpatil95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/akshay-r-patil/
-
-<br />
-
+[<img align="left" alt="akshayrpatil95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="akshayrpatil95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][XING]
-
 <br />
-
+[linkedin]: https://www.linkedin.com/in/akshay-r-patil/
 [XING]: https://www.xing.com/profile/Akshay_Patil26/cv
